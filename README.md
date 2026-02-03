@@ -2,5 +2,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFB3&center=true&vCenter=true&width=600&lines=Ingin+Menjadi+Programmer+Handal;Namun+Enggan+Ngoding" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFB3&center=true&vCenter=true&width=600&lines=Ingin+Menjadi+Programmer+Handal;Namun+Token+Habis" alt="Typing SVG" />
 </p>
 
